@@ -1,0 +1,11 @@
+{
+  "name": "gdpixelart",
+  "version": "1.0.0",
+  "description": "aaaaaaaaaaaaaaaaaaa",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC"
+}
